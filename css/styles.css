@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(144, 194, 144);
+}
+.intro h1 {
+  text-align: center;
+}
+
+.intro img  {
+  width: 16%;
+  height: auto;
+  display: block;
+  margin: auto;
+  border: 10px groove rgb(21, 141, 21);
+  border-radius: 50%;
+}
+
