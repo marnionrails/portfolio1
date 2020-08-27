@@ -11,7 +11,7 @@ The purpose of this webpage is to serve as a portfolio for Marni Sucher, creatin
 ## Setup Instructions
 
 * Clone repository from url
-* Open index.html in web browser
+* Open index.html in 
 * View Marni's portfolio
 
 ## Technologies Used
