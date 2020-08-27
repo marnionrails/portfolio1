@@ -10,8 +10,8 @@ The purpose of this webpage is to serve as a portfolio for Marni Sucher, creatin
 
 ## Setup Instructions
 
-* Clone repository from url
-* Open index.html in 
+* Clone repository from https://marnionrails.github.io/portfolio/
+* Open index.html in web browser
 * View Marni's portfolio
 
 ## Technologies Used
