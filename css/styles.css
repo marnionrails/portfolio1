@@ -31,7 +31,7 @@ hr {
   height: auto;
   display: block;
   margin: auto;
-  border: 10px groove rgb(21, 141, 21);
+  border: 10px groove skyblue;
 }
 
 .about, .projects {
@@ -50,7 +50,7 @@ hr {
 .about img {
   width: 100%;
   height: auto;
-  border: 10px groove rgb(21, 141, 21);
+  border: 10px groove skyblue;
 }
 
 span {
