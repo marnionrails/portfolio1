@@ -23,16 +23,15 @@ hr {
 }
 
 .intro img  {
-  width: 50%;
+  width: 60%;
   height: auto;
   display: block;
   margin: auto;
   border: 10px groove rgb(21, 141, 21);
-  border-radius: 50%;
 }
 
 .about {
-  margin-top: 70px;
+  margin-top: 20px;
   margin-left: 50px;
   float: left;
   width: 28%;
@@ -40,18 +39,12 @@ hr {
 
 .about h2 {
   text-align: center;
+  transform: scaleY(1.2);
+  font-size: 30px;
 }
 
 .about img {
-  width: 50%;
+  width: 100%;
   height: auto;
-}
-
-.fun-photo {
-  float: right;
-}
-
-.fun-photo img {
-  width: 30%;
-  height: auto;
+  border: 10px groove rgb(21, 141, 21);
 }
