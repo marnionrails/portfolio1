@@ -6,7 +6,7 @@
 
 ## Description
 
-The purpose of this webpage is to serve as a portfolio for Marni Sucher, creating during her time at Epicodus.
+The purpose of this webpage is to serve as a portfolio for Marni Sucher, created during her time at Epicodus.
 
 ## Setup Instructions
 
