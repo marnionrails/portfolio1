@@ -10,7 +10,7 @@ The purpose of this webpage is to serve as a portfolio for Marni Sucher, created
 
 ## Setup Instructions
 
-* Clone repository from https://marnionrails.github.io/portfolio/
+* Clone repository from https://github.com/marnionrails/portfolio.git
 * Open index.html in web browser
 * View Marni's portfolio
 
